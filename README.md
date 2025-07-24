@@ -28,7 +28,7 @@
   Jogo multiplayer com interface dinâmica e divertida, feito com JavaScript moderno.
 
 - 💸 **App Bancário**  
-  Aplicativo com funcionalidades como login, transações e simulação de juros.
+  Aplicativo bancário feito em Javascript com funcionalidades como login, transações para outros perfis, simulação de empréstimo com cálculo de lógica para ver se o usuário pode ou não obter o empréstimo.
 <!-- Colocar os links depois -->
 *(Veja mais nos repositórios abaixo 👇)*
 
