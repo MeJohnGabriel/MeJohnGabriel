@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou o João Gabriel
 
 🎓 Estudante de Engenharia da Computação  
-💻 Desenvolvedor Front-End em formação  
-🌍 Buscando oportunidades de estágio, especialmente com foco em **desenvolvimento web**
+💻 Desenvolvedor Front-End  
 
 ## 🚀 Tecnologias que utilizo
 
