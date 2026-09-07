@@ -20,7 +20,7 @@
 - 🤝 Boa comunicação, adaptabilidade e trabalho em equipe
 
 <!--OS STATS-->
-![João Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mejohngabriel&show_icons=true&theme=react)
+![Stats](https://github-readme-stats.vercel.app/api?username=mejohngabriel&show_icons=true&theme=react&cache_seconds=86400)
 
 ## 🛠️ Projetos em destaque
 
